@@ -1,0 +1,2 @@
+# mybatics_generator
+mybatics_generator样例
